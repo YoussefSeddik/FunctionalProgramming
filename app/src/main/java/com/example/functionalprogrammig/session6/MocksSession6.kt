@@ -1,6 +1,6 @@
-package com.example.functionalprogrammig.fp_session6
+package com.example.functionalprogrammig.session6
 
-import com.example.functionalprogrammig.fp_session6.models.*
+import com.example.functionalprogrammig.session6.models.*
 import java.util.*
 
 object MocksSession6 {

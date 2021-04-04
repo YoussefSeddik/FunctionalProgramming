@@ -1,4 +1,4 @@
-package com.example.functionalprogrammig.fp_session6.models
+package com.example.functionalprogrammig.session6.models
 
 import java.util.*
 

@@ -1,6 +1,6 @@
-package com.example.functionalprogrammig.fp_session4
+package com.example.functionalprogrammig.session4
 
-import com.example.functionalprogrammig.fp_session4.MockOrder.mockOrderList
+import com.example.functionalprogrammig.session4.MockOrder.mockOrderList
 
 
 fun main() {

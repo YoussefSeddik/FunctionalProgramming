@@ -1,4 +1,4 @@
-package com.example.functionalprogrammig.fp_session4
+package com.example.functionalprogrammig.session4
 
 data class Order(
     val product: Product,

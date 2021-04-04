@@ -1,4 +1,4 @@
-package com.example.functionalprogrammig
+package com.example.functionalprogrammig.session5
 
 
 fun main() {
@@ -17,7 +17,10 @@ fun <T1, T2, T3> ((T1) -> T2).compose(t2: (T2) -> T3): (T1) -> T3 {
     }
 }
 
-fun addOneSquareSubtractTen(): (x: Double) -> Double = addOne().compose(square()).compose(subtractTen())
+fun addOneSquareSubtractTen(): (x: Double) -> Double = addOne()
+    .compose(square()).compose(
+    subtractTen()
+)
 
 fun addOne(): (x: Double) -> Double {
     return {
